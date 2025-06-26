@@ -35,7 +35,7 @@ wget http://fishros.com/install -O fishros && . fishros
 
 通过**功能包**创建：
 
-![75031194048](C:\Users\Admin\Desktop\ros2_pic\1750311940482.png)
+![75031194048](C:\Users\Admin\Desktop\ROS2-learning\assets\1750311940482.png)
 
 关于**终端环境变量**设置，解决因环境变量报错问题
 
